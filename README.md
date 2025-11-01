@@ -27,3 +27,5 @@ Connect With Me
 ---
 
 💬 *Feel free to fork, collab or reach out. I’m always open to interesting ideas.*
+![Josbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aijuka-Josbert&show_icons=true)
+
