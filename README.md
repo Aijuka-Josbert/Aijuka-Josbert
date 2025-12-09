@@ -13,7 +13,7 @@ Focused on building real products and clean backend logic.
 🛠 Tech Stack
 | Category | Technologies |
 |---------|--------------|
-| Backend | PHP, Laravel, Java, C#, .NET |python
+| Backend | PHP, Laravel, Java, C#, .Net, python |
 | Frontend | HTML, CSS, JavaScript, Bootstrap |
 | Database | MySQL |
 | Tools | Git, GitHub, Linux, Postman |
